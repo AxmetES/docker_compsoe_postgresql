@@ -1,0 +1,4 @@
+pytelegrambotapi==4.16.1
+psycopg2-binary==2.9.9
+environs==10.3.0
+SQLAlchemy==2.0.28
