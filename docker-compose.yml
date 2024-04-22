@@ -13,7 +13,7 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - /home/pydev/Desktop/tester/postgresql_docker/vol:/var/lib/postgresql/data
+      - /var/lib/postgresql/data
 
   app:
     build:
